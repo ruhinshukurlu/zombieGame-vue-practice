@@ -63,7 +63,7 @@ export default {
 }
 .frown {
   transform: rotate(180deg);
-  transform-origin: 50% 50%;
+  transform-origin: 53% 50%;
 }
 .modal {
   text-align: center;

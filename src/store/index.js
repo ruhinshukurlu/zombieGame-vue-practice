@@ -68,6 +68,7 @@ export default createStore({
 
     restartGame(state){
       state.UiState = 'start'
+      state.character = ''
       state.score = 0
       state.questionIndex = 0
     }
